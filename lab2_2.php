@@ -6,6 +6,7 @@
 </head>
 
 <body>
+	<h1>Xin Chào Bạn</h1>
 <?php
 $a=1;
 $kq=0;
